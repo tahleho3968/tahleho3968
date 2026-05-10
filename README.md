@@ -75,7 +75,7 @@ I am also working on innovative projects, including an AI-powered assistant desi
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/tahleho-paki
+- LinkedIn: www.linkedin.com/in/tahleho-paki-588326361
 - GitHub: github.com/tahleho3968
 
 ---
