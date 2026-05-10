@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tahleho Paki
 
-🎓 Final-year BSc (Hons) Computing Student at Botho University  
+🎓 Fourth-year BSc (Hons) Computing Student at Botho University  
 💻 Aspiring Software Engineer | 🔐 Cybersecurity Enthusiast | 🌐 Networking & AI Explorer  
 
 ---
