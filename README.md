@@ -87,11 +87,13 @@ I am highly motivated to learn, collaborate, and contribute to impactful technol
 Bachelor of Science (Honours) in Computing *(In Progress)*
 
 ### Relevant Coursework
+- Programming Using C++
 - Programming Using Java
 - Data Structures & Algorithms
 - Software Engineering
 - Web Design & Development
 - Database Management using Oracle
+- atabase Management Microsoft SQL Server
 - Linux Essentials
 - Managing Network Hardware
 - IT Project Management
@@ -100,11 +102,18 @@ Bachelor of Science (Honours) in Computing *(In Progress)*
 
 # 🚀 Current Goals
 
-- Strengthening my software engineering and cybersecurity expertise
+- Gain hands-on industry experience in IT field
+- Grow professionally in Software Development
+- Build practical experience in IT Support
+- Develop stronger skills in Cybersecurity
+- Expand knowledge and experience in Networking
+- Strengthen expertise in Database and System Development
+- Improve problem-solving and technical skills
 - Building impactful real-world projects
-- Contributing to open-source projects
-- Expanding my AI and networking knowledge
-- Securing internship opportunities in Software Engineering, Cybersecurity, or IT Infrastructure
+- Contributing to open-source projects and real-world technology solutions
+- Expanding my AI knowledge
+- Continuously learn and adapt to new technologies
+- Securing internship opportunities in Software Engineering, Database Management, Networking, Cybersecurity, or IT Infrastructure
 
 ---
 
