@@ -156,6 +156,7 @@ These projects are currently in development and will be uploaded soon:
 
 - 🏅 **Dean's Award for Academic Excellence** (July 2024 - December 2024)
 - 🏅 **Dean's Award for Academic Excellence** (January 2025 - June 2025)
+- 🏅 **Dean's Award for Academic Excellence** (June 2025 - December 2025)
 
 ## 📚 Education
 
@@ -193,14 +194,14 @@ These projects are currently in development and will be uploaded soon:
 ┌─────────────────────────────────────────────────────────────────┐
 │                    GITHUB STATISTICS                            │
 ├─────────────────────────────────────────────────────────────────┤
-│  📁 Public Repositories: 12+                                   │
-│  ⭐ Total Stars: [Coming Soon]                                   │
+│  📁 Public Repositories: 12+                                    │
+│  ⭐ Total Stars: [Coming Soon]                                  │
 │  👥 Followers: [Coming Soon]                                    │
 │  🔄 Contributions: Active                                       │
 ├─────────────────────────────────────────────────────────────────┤
-│  🎯 Top Languages: C++, Java, PHP, Python, Bash                │
-│  🏗️ Most Active: System Administration & Web Development       │
-│  📅 Most Recent: Advanced Linux Toolkit & Network Design       │
+│  🎯 Top Languages: C++, Java, PHP, Python, Bash                 │
+│  🏗️ Most Active: System Administration & Web Development        │
+│  📅 Most Recent: Advanced Linux Toolkit & Network Design        │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
