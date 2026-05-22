@@ -57,6 +57,15 @@ I am currently developing **Naazoh Assistant**, an AI-powered smart wearable sol
 
 ---
 
+## 📌 Currently Focused On
+- Software Development
+- Cybersecurity
+- Network Engineering
+- Database Systems
+- AI & Automation
+
+---
+
 ## 🛠️ Technical Skills
 
 <p align="center">
