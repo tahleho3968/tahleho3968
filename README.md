@@ -1,97 +1,100 @@
-# 👋 Hi, I'm Tahleho Paki
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=200&section=header&text=Tahleho%20Paki&fontSize=50&fontAlignY=35&animation=fadeIn" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=280&section=header&text=TAHLEHO%20PAKI&fontSize=68&fontColor=00d4ff&fontAlignY=45&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20AI%20Innovator&descSize=18&descColor=a0aec0&descAlignY=65&animation=scaleIn" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tahleho3968&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tahleho3968?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/tahleho3968?label=Total%20Stars&style=social" alt="GitHub Stars" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A73E8&center=true&width=500&lines=Software+Engineer;Cybersecurity+Enthusiast;Problem+Solver;Full-Stack+Developer;Innovation+Driver" alt="Typing SVG" />
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Secure+%26+Intelligent+Systems;Full-Stack+%7C+Networking+%7C+Cybersecurity;Dean's+Award+Recipient+%E2%80%94+3x+Consecutive;Currently+Building+Naazoh+AI+Assistant)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-tahleho3968-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahleho3968)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tahleho%20Paki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahleho-paki-588326361/)
+[![Gmail](https://img.shields.io/badge/Email-tahleho3968%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahleho3968@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=tahleho3968&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/tahleho3968)
+
+</div>
+
+---
+
+## `$ whoami`
+
+```yaml
+name        : Tahleho Paki
+role        : Software Engineer & Cybersecurity Enthusiast
+institution : Botho University — BSc (Hons) Computing (2023–2028)
+location    : Lesotho 🇱🇸
+focus       : [ Software Engineering, Cybersecurity, Networking, AI/ML, Database Systems ]
+building    : Naazoh AI Assistant — Smart wearable for visually impaired individuals
+awards      : Dean's Award for Academic Excellence × 3 (2024–2025)
+available   : Open to internships in SWE, Networking, Database Management & Cybersecurity
+```
+
+---
+
+## ⚡ About Me
+
+I am a fourth-year Computing student driven by a commitment to building **intelligent, secure, and impactful technology solutions**. My work spans full-stack web development, systems programming, enterprise networking, and applied AI — always with a security-first mindset.
+
+My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable designed to empower visually impaired individuals through real-time object detection and natural voice interaction — a testament to building technology that genuinely changes lives.
+
+> *"Engineering solutions that are not just functional, but transformative."*
+
+---
+
+## 🛠️ Technical Arsenal
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Web & Database
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%2019c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Systems, Security & Networking
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahleho3968&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahleho3968&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahleho3968&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=tahleho3968&theme=tokyonight&no-frame=true&row=2&column=4&bg_color=0D1117" alt="GitHub Trophies" width="49%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=tahleho3968&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0&ring_color=00d4ff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahleho3968&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="49%" />
 
-## 📈 Contribution Graph
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahleho3968&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=a0aec0&langs_count=8" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=tahleho3968&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" width="49%" />
+
+</div>
+
+### 📈 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=github-light&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" width="100%" />
 </picture>
-
----
-
-## 🚀 About Me
-
-🎓 **Fourth-year BSc (Hons) Computing Student** at Botho University  
-💻 **Aspiring Software Engineer** | 🔐 **Cybersecurity Enthusiast** | 🌐 **Network & AI Explorer**
-
-I am passionate about building innovative technology solutions that solve real-world challenges. My journey combines software engineering, cybersecurity, networking, and artificial intelligence with a focus on creating intelligent, secure, and impactful systems.
-
-### 🌟 Current Innovation
-I am currently developing **Naazoh Assistant**, an AI-powered smart wearable solution designed to support visually impaired individuals through intelligent object detection and voice interaction technologies.
-
-### 🎯 Professional Goals
-- Secure internship opportunities in Software Engineering, Database Management, Networking, or Cybersecurity
-- Grow into a well-rounded software engineer and cybersecurity professional
-- Build impactful real-world projects that solve genuine problems
-- Contribute to open-source communities
-- Master emerging technologies in AI and Cloud Computing
-
----
-
-## 📌 Currently Focused On
-- Software Development
-- Cybersecurity
-- Network Engineering
-- Database Systems
-- AI & Automation
-
----
-
-## 🛠️ Technical Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
 
 ---
 
@@ -99,59 +102,59 @@ I am currently developing **Naazoh Assistant**, an AI-powered smart wearable sol
 
 ### 🌐 Web Development
 
-| Project | Technologies | Description | Links |
-|---------|--------------|-------------|-------|
-| **Maluti Primary School Management System** | PHP, MySQL, HTML, CSS, JS | Complete school management system with attendance, fees, exams, and role-based access | [Repo](https://github.com/tahleho3968/maluti-primary-school) \| [Live Demo](http://maluti.great-site.net) |
-| **ABC Ltd. Portal** | Bash, SHA-256 | Secure terminal-based authentication system with role-based portals | [Repo](https://github.com/tahleho3968/abc-portal) |
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| [**Maluti Primary School Management System**](https://github.com/tahleho3968/maluti-primary-school) | `PHP` `MySQL` `HTML/CSS` `JS` | End-to-end school management platform with attendance tracking, fee management, examinations, and role-based access control. Live production deployment. |
+| [**ABC Ltd. Secure Portal**](https://github.com/tahleho3968/abc-portal) | `Bash` `SHA-256` | Hardened terminal-based authentication system implementing cryptographic hashing and role-segregated access portals. |
 
-### 💻 C++ Applications
+### 💻 C++ Systems Engineering
 
-| Project | Technologies | Description | Links |
-|---------|--------------|-------------|-------|
-| **Advanced Banking System** | C++17, AVL Tree, Trie | Production-ready banking system with accounts, loans, interest calculations | [Repo](https://github.com/tahleho3968/advanced-banking-system) |
-| **Customer Service System** | C++17, Hash Table, Priority Queue | SLA-based ticket management with priority queuing | [Repo](https://github.com/tahleho3968/customer-service-system) |
-| **Bukana Vaccination System** | C++11, File I/O | Child vaccination record management with secure authentication | [Repo](https://github.com/tahleho3968/Bukana-Child-Vaccination-Record-Management-System) |
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| [**Advanced Banking System**](https://github.com/tahleho3968/advanced-banking-system) | `C++17` `AVL Tree` `Trie` | Production-grade banking engine featuring AVL-balanced account trees, Trie-indexed search, loan management, and compound interest calculations. |
+| [**Customer Service Ticketing System**](https://github.com/tahleho3968/customer-service-system) | `C++17` `Hash Table` `Priority Queue` | SLA-enforced ticket management system with priority-queue scheduling, hash-indexed customer records, and escalation workflows. |
+| [**Bukana Vaccination Records System**](https://github.com/tahleho3968/Bukana-Child-Vaccination-Record-Management-System) | `C++11` `File I/O` | Secure child immunisation record management with authenticated access and persistent file-based storage. |
 
-### ☕ Java Applications
+### ☕ Java Enterprise Applications
 
-| Project | Technologies | Description | Links |
-|---------|--------------|-------------|-------|
-| **ClubConnect** | Java, Swing, MySQL | University clubs management system with 4 user roles | [Repo](https://github.com/tahleho3968/ClubConnect-Java-App) |
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| [**ClubConnect**](https://github.com/tahleho3968/ClubConnect-Java-App) | `Java` `Swing` `MySQL` | University club lifecycle management platform supporting four distinct user roles with a full Swing GUI and relational database backend. |
 
-### 🐧 System Administration & Networking
+### 🐧 Linux Administration & Networking
 
-| Project | Technologies | Description | Links |
-|---------|--------------|-------------|-------|
-| **Advanced Linux Toolkit** | Bash, Python, Perl | 15+ scripts for monitoring, backup, security, and network management | [Repo](https://github.com/tahleho3968/advanced-linux-toolkit) |
-| **Enterprise Network Design** | Cisco Packet Tracer, OSPF, VLAN | Complete enterprise network with NAT, ACLs, and WLC | [Repo](https://github.com/tahleho3968/NH2-A26E-Managing-Network-Hardware-2/) |
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| [**Advanced Linux Toolkit**](https://github.com/tahleho3968/advanced-linux-toolkit) | `Bash` `Python` `Perl` | Comprehensive 15+ script automation suite covering system monitoring, encrypted backups, security auditing, and network diagnostics. |
+| [**Enterprise Network Design**](https://github.com/tahleho3968/NH2-A26E-Managing-Network-Hardware-2/) | `Cisco Packet Tracer` `OSPF` `VLAN` | Full-scale enterprise network architecture implementing OSPF dynamic routing, VLAN segmentation, NAT, ACLs, and wireless LAN controllers. |
 
-### 🗄️ Database Solutions
+### 🗄️ Database Engineering
 
-| Project | Technologies | Description | Links |
-|---------|--------------|-------------|-------|
-| **Oracle Government Solution** | Oracle 19c, PL/SQL, RMAN | Production-ready immigration and citizen services database | [Repo](https://github.com/tahleho3968/oracle-19c-government-solution) |
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| [**Oracle Government Solution**](https://github.com/tahleho3968/oracle-19c-government-solution) | `Oracle 19c` `PL/SQL` `RMAN` | Production-grade government database system for immigration and citizen services, featuring stored procedures, triggers, views, and RMAN backup strategy. |
 
 ---
 
-## 📦 Coming Soon (Local Development)
-
-These projects are currently in development and will be uploaded soon:
+## 🔬 In Development
 
 | Project | Description | Status |
-|---------|-------------|--------|
-| **Naazoh AI Assistant** | AI-powered smart wearable for visually impaired users | 🔄 In Development |
-| **Advanced Network Securities** | Network security implementation with IDS/IPS | 🔄 In Development |
-| **Portfolio Website** | Modern responsive portfolio with animations | 🔄 In Development |
-| **MedChain AI** | Blockchain-based medical records with AI | 🔄 In Development |
-| **ProcureGov Java App** | Government procurement management system | 🔄 In Development |
-| **Global Surveillance System** | Security monitoring and threat detection | 🔄 In Development |
+|:--------|:------------|:------:|
+| **Naazoh AI Assistant** | AI-powered smart wearable enabling real-time object detection and voice interaction for visually impaired users | 🔄 Active |
+| **Advanced Network Securities** | Comprehensive network security suite with IDS/IPS implementation and traffic analysis | 🔄 Active |
+| **MedChain AI** | Blockchain-integrated medical records platform with AI-driven diagnostics and access control | 🔄 Active |
+| **ProcureGov Java App** | Government procurement lifecycle management system with audit trails and compliance reporting | 🔄 Active |
+| **Global Surveillance System** | Distributed security monitoring and real-time threat detection infrastructure | 🔄 Active |
+| **Portfolio Website** | Modern responsive developer portfolio with interactive project showcases | 🔄 Active |
 
 ---
 
 ## 🏆 Certifications
 
-| Certification | Issuer | Year |
-|---------------|--------|------|
+<div align="center">
+
+| Certification | Institution | Year |
+|:-------------|:------------|:----:|
 | **CCNA: Introduction to Networks** | Cisco Networking Academy | 2025 |
 | **Python Essentials 1** | Cisco Networking Academy | 2024 |
 | **Introduction to Cybersecurity** | Cisco Networking Academy | 2024 |
@@ -161,71 +164,69 @@ These projects are currently in development and will be uploaded soon:
 | **Data Science Fundamentals** | Cisco Networking Academy | 2024 |
 | **Critical Thinking in the AI Era** | HP LIFE | 2024 |
 
-## 🎓 Academic Achievements
-
-- 🏅 **Dean's Award for Academic Excellence** (July 2024 - December 2024)
-- 🏅 **Dean's Award for Academic Excellence** (January 2025 - June 2025)
-- 🏅 **Dean's Award for Academic Excellence** (June 2025 - December 2025)
-
-## 📚 Education
-
-| Institution | Qualification | Duration |
-|-------------|---------------|----------|
-| **Botho University** | BSc (Hons) in Computing | 2023 - 2028 |
-| **St Paul's High School** | LGCSE | 2021 - 2022 |
-| **St Paul's High School** | Junior Certificate | 2018 - 2020 |
-| **St Paul's Primary School** | PSL Certificate | 2011 - 2017 |
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🎓 Education & Academic Achievements
 
-<p align="center">
-  <a href="https://github.com/tahleho3968">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tahleho-paki-588326361/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tahleho3968@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-1A73E8?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+| Institution | Qualification | Period |
+|:------------|:-------------|:------:|
+| **Botho University** | BSc (Hons) in Computing | 2023 – 2028 |
+| **St Paul's High School** | LGCSE | 2021 – 2022 |
+| **St Paul's High School** | Junior Certificate | 2018 – 2020 |
+| **St Paul's Primary School** | PSL Certificate | 2011 – 2017 |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+🏅 **Dean's Award for Academic Excellence** — July 2024 to December 2024
+🏅 **Dean's Award for Academic Excellence** — January 2025 to June 2025
+🏅 **Dean's Award for Academic Excellence** — June 2025 to December 2025
+
+*Three consecutive semester awards — a consistent record of academic distinction.*
+
+</div>
 
 ---
 
-## 📊 GitHub Stats Summary
+## 🎯 Professional Objectives
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                    GITHUB STATISTICS                            │
-├─────────────────────────────────────────────────────────────────┤
-│  📁 Public Repositories: 12+                                    │
-│  ⭐ Total Stars: [Coming Soon]                                  │
-│  👥 Followers: [Coming Soon]                                    │
-│  🔄 Contributions: Active                                       │
-├─────────────────────────────────────────────────────────────────┤
-│  🎯 Top Languages: C++, Java, PHP, Python, Bash                 │
-│  🏗️ Most Active: System Administration & Web Development        │
-│  📅 Most Recent: Advanced Linux Toolkit & Network Design        │
-└─────────────────────────────────────────────────────────────────┘
+▸  Secure internship opportunities in Software Engineering, Database Management,
+   Network Engineering, or Cybersecurity
+   
+▸  Deepen expertise in AI/ML systems and cloud-native architectures
+
+▸  Contribute to open-source projects with real-world security and utility impact
+
+▸  Grow Naazoh AI Assistant into a deployable assistive technology product
+
+▸  Become a well-rounded engineer at the intersection of security and intelligence
 ```
 
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-I enjoy combining **software engineering** and **cybersecurity** to create intelligent and secure technology solutions. When I'm not coding, I'm exploring new technologies, working on my Naazoh Assistant project, or contributing to open-source.
+### 🤝 Open to Collaboration & Opportunities
 
----
+*I am actively seeking internships and collaborative projects in software engineering,*
+*cybersecurity, database systems, and AI development. Let's build something remarkable.*
 
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
-</p>
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahleho-paki-588326361/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahleho3968@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahleho3968)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer&fontColor=00d4ff&fontSize=14" />
+
+</div>
