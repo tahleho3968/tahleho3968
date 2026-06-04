@@ -48,57 +48,26 @@ My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable de
 
 ---
 
-## 🛠️ Technical Arsenal
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Web & Database
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%2019c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Systems, Security & Networking
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tahleho3968&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0&ring_color=00d4ff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahleho3968&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahleho3968&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=a0aec0&langs_count=8" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=tahleho3968&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" width="49%" />
-
-</div>
-
-### 📈 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=github-light&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" width="100%" />
-</picture>
-
----
-
 ## 🚀 Featured Projects
+
+### 🏆 ProcureGov - Tender Management System ⭐ NEW
+
+[![ProcureGov](https://img.shields.io/badge/ProcureGov-Tender%20Management%20System-1a472a?style=for-the-badge&logo=java&logoColor=white)](https://github.com/tahleho3968/ProcureGov_2333585)
+
+**Complete government procurement lifecycle management system**
+
+| Feature | Description |
+|:--------|:------------|
+| **Role-based Access** | Suppliers, Procurement Officers, Evaluation Committee |
+| **Tender Lifecycle** | Draft → Open → Closed → Under Evaluation → Evaluated → Awarded |
+| **Secure Authentication** | SHA-256 password hashing with account lockout |
+| **Multi-Evaluator Scoring** | 3 evaluators with weighted scoring (40/35/25) |
+| **Email Notifications** | Automatic winner/loser notifications via JavaMail |
+| **Tech Stack** | Java Servlets, JSP, JSTL, MySQL, Tomcat |
+
+> 📊 **Project Score:** 92/100 (Distinction)
+
+---
 
 ### 🌐 Web Development
 
@@ -143,9 +112,61 @@ My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable de
 | **Naazoh AI Assistant** | AI-powered smart wearable enabling real-time object detection and voice interaction for visually impaired users | 🔄 Active |
 | **Advanced Network Securities** | Comprehensive network security suite with IDS/IPS implementation and traffic analysis | 🔄 Active |
 | **MedChain AI** | Blockchain-integrated medical records platform with AI-driven diagnostics and access control | 🔄 Active |
-| **ProcureGov Java App** | Government procurement lifecycle management system with audit trails and compliance reporting | 🔄 Active |
 | **Global Surveillance System** | Distributed security monitoring and real-time threat detection infrastructure | 🔄 Active |
 | **Portfolio Website** | Modern responsive developer portfolio with interactive project showcases | 🔄 Active |
+
+---
+
+## 🛠️ Technical Arsenal
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Web & Database
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%2019c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Systems, Security & Networking
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SHA-256](https://img.shields.io/badge/SHA--256-2C8EBB?style=for-the-badge&logo=security&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tahleho3968&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0&ring_color=00d4ff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahleho3968&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="49%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahleho3968&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=a0aec0&langs_count=8" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=tahleho3968&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" width="49%" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=github-light&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" width="100%" />
+</picture>
 
 ---
 
