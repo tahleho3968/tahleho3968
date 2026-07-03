@@ -148,7 +148,7 @@ My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tahleho3968&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0&ring_color=00d4ff" width="49%" />
+<img src="./profile/stats.svg" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahleho3968&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="49%" />
 
 </div>
@@ -156,7 +156,7 @@ My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable de
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahleho3968&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=a0aec0&langs_count=8" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=tahleho3968&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" width="49%" />
+<img src="./profile/trophy.svg" width="49%" />
 
 </div>
 
