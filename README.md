@@ -28,10 +28,10 @@
 ```yaml
 name        : Tahleho Paki
 role        : Software Engineer & Cybersecurity Enthusiast
-institution : Botho University — BSc (Hons) Computing (2023–2028)
+institution : Botho University - BSc (Hons) Computing (2023–2028)
 location    : Lesotho 🇱🇸
 focus       : [ Software Engineering, Cybersecurity, Networking, AI/ML, Database Systems ]
-building    : Naazoh AI Assistant — Smart wearable for visually impaired individuals
+building    : Naazoh AI Assistant - Smart wearable for visually impaired individuals
 awards      : Dean's Award for Academic Excellence × 3 (2024–2025)
 available   : Open to internships in SWE, Networking, Database Management & Cybersecurity
 ```
@@ -40,9 +40,9 @@ available   : Open to internships in SWE, Networking, Database Management & Cybe
 
 ## ⚡ About Me
 
-I am a fourth-year Computing student driven by a commitment to building **intelligent, secure, and impactful technology solutions**. My work spans full-stack web development, systems programming, enterprise networking, and applied AI — always with a security-first mindset.
+I am a fourth-year Computing student driven by a commitment to building **intelligent, secure, and impactful technology solutions**. My work spans full-stack web development, systems programming, enterprise networking, and applied AI - always with a security-first mindset.
 
-My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable designed to empower visually impaired individuals through real-time object detection and natural voice interaction — a testament to building technology that genuinely changes lives.
+My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable designed to empower visually impaired individuals through real-time object detection and natural voice interaction - a testament to building technology that genuinely changes lives.
 
 > *"Engineering solutions that are not just functional, but transformative."*
 
@@ -242,11 +242,11 @@ My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable de
 
 <div align="center">
 
-🏅 **Dean's Award for Academic Excellence** — July 2024 to December 2024
-🏅 **Dean's Award for Academic Excellence** — January 2025 to June 2025
-🏅 **Dean's Award for Academic Excellence** — June 2025 to December 2025
+🏅 **Dean's Award for Academic Excellence** - July 2024 to December 2024
+🏅 **Dean's Award for Academic Excellence** - January 2025 to June 2025
+🏅 **Dean's Award for Academic Excellence** - June 2025 to December 2025
 
-*Three consecutive semester awards — a consistent record of academic distinction.*
+*Three consecutive semester awards - a consistent record of academic distinction.*
 
 </div>
 
