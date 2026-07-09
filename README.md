@@ -119,28 +119,61 @@ My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable de
 
 ## 🛠️ Technical Arsenal
 
-### Languages
+### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Web & Database
+### ⚛️ Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔙 Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%2019c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Systems, Security & Networking
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle 19c](https://img.shields.io/badge/Oracle%2019c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🐍 DevOps & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🖥️ Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🌐 Networking & Security
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 ![SHA-256](https://img.shields.io/badge/SHA--256-2C8EBB?style=for-the-badge&logo=security&logoColor=white)
+
+### 📊 Data Science & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🛠️ Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
@@ -148,15 +181,14 @@ My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable de
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tahleho3968&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahleho3968&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="49%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahleho3968&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=a0aec0&langs_count=8" width="49%" />
-<img src="./profile/trophy.svg" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahleho3968&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=a0aec0&langs_count=10" width="49%" />
 
 </div>
 
@@ -177,6 +209,7 @@ My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable de
 | Certification | Institution | Year |
 |:-------------|:------------|:----:|
 | **CCNA: Introduction to Networks** | Cisco Networking Academy | 2025 |
+| **CCNA: Network Hardware 2** | Cisco Networking Academy | 2025 |
 | **Python Essentials 1** | Cisco Networking Academy | 2024 |
 | **Introduction to Cybersecurity** | Cisco Networking Academy | 2024 |
 | **Networking Fundamentals** | Cisco Networking Academy | 2024 |
@@ -184,6 +217,9 @@ My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable de
 | **Internet of Things (IoT)** | Cisco Networking Academy | 2024 |
 | **Data Science Fundamentals** | Cisco Networking Academy | 2024 |
 | **Critical Thinking in the AI Era** | HP LIFE | 2024 |
+| **Junior Cybersecurity Analyst Career Path** | Cisco Networking Academy | 2025 |
+| **Network Defense** | Cisco Networking Academy | 2025 |
+| **Endpoint Security** | Cisco Networking Academy | 2025 |
 
 </div>
 
