@@ -19,8 +19,16 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=tahleho3968&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0&ring_color=00d4ff
+          options: username=tahleho3968&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0&ring_color=00d4ff&include_all_commits=true&count_private=true
           path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=tahleho3968&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=a0aec0&langs_count=10
+          path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate trophy card
