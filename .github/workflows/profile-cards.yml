@@ -25,9 +25,10 @@ jobs:
 
       - name: Generate trophy card
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        continue-on-error: true   # decorative extra; must not block snake generation
         with:
           username: tahleho3968
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate contribution snake
