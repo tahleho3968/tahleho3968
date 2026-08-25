@@ -218,9 +218,9 @@ My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable de
 ### 📈 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=github-light&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-graph-tahleho.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-activity-graph-tahleho.vercel.app/graph?username=tahleho3968&theme=github-light&hide_border=true&area=true" />
+  <img src="https://github-activity-graph-tahleho.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" width="100%" />
 </picture>
 
 ### 🐍 Contribution Snake
