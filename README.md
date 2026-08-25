@@ -204,7 +204,7 @@ My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tahleho3968&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tahleho3968&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0&include_all_commits=true&count_private=true" width="49%" alt="Total stars earned, commits, PRs and issues" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahleho3968&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="49%" />
 
 </div>
@@ -221,6 +221,14 @@ My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable de
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=github-light&hide_border=true&area=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" width="100%" />
+</picture>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
+  <img alt="Tahleho's contribution snake animation" src="./profile/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 ---
