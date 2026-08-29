@@ -204,14 +204,14 @@ My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable de
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%" alt="Total stars earned, commits, PRs and issues" />
+<img src="https://github-stats-extended-frontend-olive.vercel.app/api?username=tahleho3968&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Total stars earned, commits, PRs and issues" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahleho3968&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="49%" />
 
 </div>
 
 <div align="center">
 
-<img src="./profile/top-langs.svg" width="49%" alt="Most used languages" />
+<img src="https://github-stats-extended-frontend-olive.vercel.app/api/top-langs?username=tahleho3968&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&layout=compact" width="49%" alt="Most used languages" />
 
 </div>
 
