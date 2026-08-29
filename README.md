@@ -69,6 +69,33 @@ My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable de
 
 ---
 
+### 🔐 TrustMesh - Verifiable Credentials & Digital Trust ⭐
+
+[![TrustMesh](https://img.shields.io/badge/TrustMesh-Verifiable%20Credentials-00d4ff?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/tahleho3968/trustmesh)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge)](https://github.com/tahleho3968/trustmesh/blob/main/LICENSE)
+
+**Open-source infrastructure for proving what is true, without revealing more than necessary.**
+
+TrustMesh is a modular trust infrastructure platform built on W3C standards that lets
+organizations issue cryptographically verifiable credentials — degrees, licenses, employment
+records, certifications — and lets people prove claims about themselves **without exposing
+more personal information than necessary**. Fully self-hostable: no blockchain, no token,
+no proprietary cryptography.
+
+| Feature | Description |
+|:--------|:------------|
+| **W3C VC 2.0** | Standards-first verifiable credentials & Data Integrity proofs |
+| **`eddsa-jcs-2022`** | RFC 8785 (JCS) canonicalized Ed25519 signatures with `did:key` |
+| **Auditable crates** | Three small, independently auditable crates (`crypto`, `credentials`, `issuer`) |
+| **Privacy by design** | Minimum collection, minimum disclosure, minimum logging |
+| **Self-hostable** | Never forced onto someone else's servers |
+| **Tech Stack** | Rust, W3C Verifiable Credentials 2.0, Decentralized Identifiers |
+
+> 🚧 **Status:** Early development (pre-release). Issuance & verification work today.
+> 🤝 **Contributions welcome!** Great starting points: [`good first issue`](https://github.com/tahleho3968/trustmesh/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
+
+---
+
 ### 🌐 Web Development
 
 | Project | Stack | Description |
