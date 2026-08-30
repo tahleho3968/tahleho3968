@@ -140,7 +140,6 @@ no proprietary cryptography.
 | **Advanced Network Securities** | Comprehensive network security suite with IDS/IPS implementation and traffic analysis | 🔄 Active |
 | **MedChain AI** | Blockchain-integrated medical records platform with AI-driven diagnostics and access control | 🔄 Active |
 | **Global Surveillance System** | Distributed security monitoring and real-time threat detection infrastructure | 🔄 Active |
-| **Portfolio Website** | Modern responsive developer portfolio with interactive project showcases | 🔄 Active |
 
 ---
 
