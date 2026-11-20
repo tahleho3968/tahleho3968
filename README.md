@@ -51,7 +51,7 @@ I recently shipped **Hotspot Oasis**, a multi-tenant managed Wi-Fi control plane
 ### Africa Code Academy — Engineering Residency Programme
 *Jul 2026 – Nov 2026*
 
-- Shipped **Hotspot Oasis** to live community hotspots: [admin console](https://lando.africacodefoundry.com/admin/), [ACA Lesotho portal](https://lando.africacodefoundry.com/portal/aca-lesotho), [Zenzele Mall portal](https://lando.africacodefoundry.com/portal/zenzele-mall), and [hotspotoasis.com](https://hotspotoasis.com/).
+- Shipped **Hotspot Oasis**, a multi-tenant community Wi-Fi control plane, during the residency.
 - Built the Next.js captive portal and admin console on a NestJS API with PostgreSQL — visitor registration, organisation enrolment, and sessions, visitors, devices and users management.
 - Integrated FreeRADIUS authentication and accounting with MikroTik HotSpot as the network data plane.
 
@@ -68,13 +68,11 @@ I recently shipped **Hotspot Oasis**, a multi-tenant managed Wi-Fi control plane
 
 ### 📶 Hotspot Oasis — Managed Community Wi-Fi
 
-[![Live](https://img.shields.io/badge/Live-Hotspot%20Oasis-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://hotspotoasis.com/)
-
 **Cloud control plane for guest Wi-Fi: captive portal, visitor identity, RADIUS AAA, session accounting, analytics, and multi-site administration.**
 
 | Feature | Description |
 |:--------|:------------|
-| **Live deployments** | Community Wi-Fi for ACA Lesotho and Zenzele Mall, with a shared ops console |
+| **Multi-site operations** | Shared ops console supporting several community Wi-Fi sites |
 | **Captive portal** | Visitor registration with demographics, terms acceptance, and site-specific branding |
 | **Admin console** | Organisation enrolment and sessions, visitors, devices and users monitoring |
 | **AAA & accounting** | FreeRADIUS authentication with a `radacct` → sessions bridge |
