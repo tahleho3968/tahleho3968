@@ -16,8 +16,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-tahleho3968-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahleho3968)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tahleho%20Paki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahleho-paki-588326361/)
-[![Gmail](https://img.shields.io/badge/Email-tahleho3968%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahleho3968@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=tahleho3968&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/tahleho3968)
+[![Email](https://img.shields.io/badge/Email-tahleho3968%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahleho3968@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Website-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://my-website-theta-lemon-66.vercel.app/)
 
 </div>
 
@@ -27,12 +27,13 @@
 
 ```yaml
 name        : Tahleho Paki
-role        : Software Engineer | Security & Systems
+role        : Software Engineer | Security & Networks
 institution : Botho University — BSc (Hons) Computing
 location    : Lesotho 🇱🇸
 focus       : [ Software Engineering, Security, Networking, Applied AI, Database Systems ]
+shipped     : Hotspot Oasis — multi-tenant managed Wi-Fi control plane
 building    : Naazoh AI Assistant — assistive technology for visually impaired users
-status      : Internship completed — open to new opportunities
+status      : Engineering residency completed — open to new opportunities
 ```
 
 ---
@@ -41,11 +42,46 @@ status      : Internship completed — open to new opportunities
 
 I'm a software engineer and Computing student focused on building **intelligent, secure, and reliable systems**. My work spans full-stack web development, systems programming, enterprise networking, and applied AI — always with a security-first mindset.
 
-My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable that empowers visually impaired individuals through real-time object detection and natural voice interaction — assistive technology designed for real-world use.
+I recently shipped **Hotspot Oasis**, a multi-tenant managed Wi-Fi control plane that brings visitor onboarding, RADIUS-backed access, and fleet analytics into one system. I'm also building **Naazoh AI Assistant**, a smart wearable that empowers visually impaired individuals through real-time object detection and natural voice interaction.
+
+---
+
+## 💼 Experience
+
+### Africa Code Academy — Engineering Residency Programme
+*Jul 2026 – Nov 2026*
+
+- Shipped **Hotspot Oasis** to live community hotspots: [admin console](https://lando.africacodefoundry.com/admin/), [ACA Lesotho portal](https://lando.africacodefoundry.com/portal/aca-lesotho), [Zenzele Mall portal](https://lando.africacodefoundry.com/portal/zenzele-mall), and [hotspotoasis.com](https://hotspotoasis.com/).
+- Built the Next.js captive portal and admin console on a NestJS API with PostgreSQL — visitor registration, organisation enrolment, and sessions, visitors, devices and users management.
+- Integrated FreeRADIUS authentication and accounting with MikroTik HotSpot as the network data plane.
+
+### Batlokwa Thiko Construction — IT Intern
+*Jul 2025 – Jan 2026*
+
+- Provided desktop support — workstation setup, maintenance, and troubleshooting for staff.
+- Administered staff email accounts and user access.
+- Maintained office network connectivity and resolved day-to-day IT issues.
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📶 Hotspot Oasis — Managed Community Wi-Fi
+
+[![Live](https://img.shields.io/badge/Live-Hotspot%20Oasis-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://hotspotoasis.com/)
+
+**Cloud control plane for guest Wi-Fi: captive portal, visitor identity, RADIUS AAA, session accounting, analytics, and multi-site administration.**
+
+| Feature | Description |
+|:--------|:------------|
+| **Live deployments** | Community Wi-Fi for ACA Lesotho and Zenzele Mall, with a shared ops console |
+| **Captive portal** | Visitor registration with demographics, terms acceptance, and site-specific branding |
+| **Admin console** | Organisation enrolment and sessions, visitors, devices and users monitoring |
+| **AAA & accounting** | FreeRADIUS authentication with a `radacct` → sessions bridge |
+| **Multi-tenancy** | Site-scoped data and organisation isolation in PostgreSQL |
+| **Tech Stack** | Next.js, NestJS, PostgreSQL, FreeRADIUS, MikroTik HotSpot, Docker |
+
+---
 
 ### 🏆 ProcureGov — Tender Management System
 
@@ -91,39 +127,19 @@ no proprietary cryptography.
 
 ---
 
-### 🌐 Web Development
+## 🧩 Also Built
 
 | Project | Stack | Description |
 |:--------|:------|:------------|
-| [**Maluti Primary School Management System**](https://github.com/tahleho3968/maluti-primary-school) | `PHP` `MySQL` `HTML/CSS` `JS` | End-to-end school management platform with attendance tracking, fee management, examinations, and role-based access control. Live production deployment. |
-| [**ABC Ltd. Secure Portal**](https://github.com/tahleho3968/abc-portal) | `Bash` `SHA-256` | Hardened terminal-based authentication system implementing cryptographic hashing and role-segregated access portals. |
-
-### 💻 C++ Systems Engineering
-
-| Project | Stack | Description |
-|:--------|:------|:------------|
-| [**Advanced Banking System**](https://github.com/tahleho3968/advanced-banking-system) | `C++17` `AVL Tree` `Trie` | Production-grade banking engine featuring AVL-balanced account trees, Trie-indexed search, loan management, and compound interest calculations. |
-| [**Customer Service Ticketing System**](https://github.com/tahleho3968/customer-service-system) | `C++17` `Hash Table` `Priority Queue` | SLA-enforced ticket management system with priority-queue scheduling, hash-indexed customer records, and escalation workflows. |
-| [**Bukana Vaccination Records System**](https://github.com/tahleho3968/Bukana-Child-Vaccination-Record-Management-System) | `C++11` `File I/O` | Secure child immunisation record management with authenticated access and persistent file-based storage. |
-
-### ☕ Java Enterprise Applications
-
-| Project | Stack | Description |
-|:--------|:------|:------------|
-| [**ClubConnect**](https://github.com/tahleho3968/ClubConnect-Java-App) | `Java` `Swing` `MySQL` | University club lifecycle management platform supporting four distinct user roles with a full Swing GUI and relational database backend. |
-
-### 🐧 Linux Administration & Networking
-
-| Project | Stack | Description |
-|:--------|:------|:------------|
-| [**Advanced Linux Toolkit**](https://github.com/tahleho3968/advanced-linux-toolkit) | `Bash` `Python` `Perl` | Comprehensive 15+ script automation suite covering system monitoring, encrypted backups, security auditing, and network diagnostics. |
-| [**Enterprise Network Design**](https://github.com/tahleho3968/NH2-A26E-Managing-Network-Hardware-2/) | `Cisco Packet Tracer` `OSPF` `VLAN` | Full-scale enterprise network architecture implementing OSPF dynamic routing, VLAN segmentation, NAT, ACLs, and wireless LAN controllers. |
-
-### 🗄️ Database Engineering
-
-| Project | Stack | Description |
-|:--------|:------|:------------|
-| [**Oracle Government Solution**](https://github.com/tahleho3968/oracle-19c-government-solution) | `Oracle 19c` `PL/SQL` `RMAN` | Production-grade government database system for immigration and citizen services, featuring stored procedures, triggers, views, and RMAN backup strategy. |
+| [**Maluti Primary School Management System**](https://github.com/tahleho3968/maluti-primary-school) | `PHP` `MySQL` | Attendance, fees, examinations and role-based access in live production use. |
+| [**ABC Ltd. Secure Portal**](https://github.com/tahleho3968/abc-portal) | `Bash` `SHA-256` | Hardened terminal authentication with cryptographic hashing and role segregation. |
+| [**Advanced Banking System**](https://github.com/tahleho3968/advanced-banking-system) | `C++17` | AVL-balanced accounts, Trie-indexed search, loans and compound interest. |
+| [**Customer Service Ticketing System**](https://github.com/tahleho3968/customer-service-system) | `C++17` | SLA enforcement with priority-queue scheduling and hash-indexed records. |
+| [**Bukana Vaccination Records System**](https://github.com/tahleho3968/Bukana-Child-Vaccination-Record-Management-System) | `C++11` | Authenticated immunisation records with persistent file storage. |
+| [**ClubConnect**](https://github.com/tahleho3968/ClubConnect-Java-App) | `Java` `MySQL` | Four-role club management platform with a full Swing GUI. |
+| [**Advanced Linux Toolkit**](https://github.com/tahleho3968/advanced-linux-toolkit) | `Bash` `Python` | 15+ scripts for monitoring, encrypted backups, auditing and network diagnostics. |
+| [**Enterprise Network Design**](https://github.com/tahleho3968/NH2-A26E-Managing-Network-Hardware-2/) | `Cisco` | OSPF, VLANs, NAT, ACLs and wireless LAN controllers. |
+| [**Oracle Government Solution**](https://github.com/tahleho3968/oracle-19c-government-solution) | `Oracle 19c` | Immigration and citizen services schema with PL/SQL and RMAN backups. |
 
 ---
 
@@ -133,118 +149,24 @@ no proprietary cryptography.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Stack
 
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**Languages** — Java, C++, Rust, TypeScript, Python, PHP, SQL, Bash
 
-### ⚛️ Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+**Web & data** — Next.js, React, NestJS, Node.js, PostgreSQL, MySQL, Oracle 19c
 
-### 🔙 Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Infrastructure & security** — Docker, GitHub Actions, Linux, FreeRADIUS, MikroTik HotSpot, RADIUS accounting, Wireshark, Nmap
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle 19c](https://img.shields.io/badge/Oracle%2019c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### 🐍 DevOps & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🧠 Agentic Engineering & AI Tools
-![Kilo AI](https://img.shields.io/badge/Kilo_AI-00D4FF?style=for-the-badge&logo=ai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-FF6B00?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
-![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🧪 Testing
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-
-### 🌐 Networking & Security
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![SHA-256](https://img.shields.io/badge/SHA--256-2C8EBB?style-for-the-badge&logo=security&logoColor=white)
-
-### 📊 Data Science & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Bedrock AI](https://img.shields.io/badge/Bedrock_AI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🖥️ Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🛠️ Development Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+**Practices** — Role-based access control, secure authentication, schema migrations, CI/CD
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-stats-extended-frontend-olive.vercel.app/api?username=tahleho3968&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Total stars earned, commits, PRs and issues" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahleho3968&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-stats-extended-frontend-olive.vercel.app/api/top-langs?username=tahleho3968&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&layout=compact" width="49%" alt="Most used languages" />
-
-</div>
-
-### 📈 Contribution Activity
+## 📈 Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-graph-tahleho.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-activity-graph-tahleho.vercel.app/graph?username=tahleho3968&theme=github-light&hide_border=true&area=true" />
   <img src="https://github-activity-graph-tahleho.vercel.app/graph?username=tahleho3968&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" width="100%" />
-</picture>
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
-  <img alt="Tahleho's contribution snake animation" src="./profile/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 ---
@@ -272,6 +194,7 @@ no proprietary cryptography.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahleho-paki-588326361/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahleho3968@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://my-website-theta-lemon-66.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahleho3968)
 
 </div>
