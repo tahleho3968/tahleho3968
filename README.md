@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=280&section=header&text=TAHLEHO%20PAKI&fontSize=68&fontColor=00d4ff&fontAlignY=45&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20AI%20Innovator&descSize=18&descColor=a0aec0&descAlignY=65&animation=scaleIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=280&section=header&text=TAHLEHO%20PAKI&fontSize=68&fontColor=00d4ff&fontAlignY=45&desc=Software%20Engineer%20%7C%20Security%20%26%20Networks%20%7C%20Applied%20AI&descSize=18&descColor=a0aec0&descAlignY=65&animation=scaleIn" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Secure+%26+Intelligent+Systems;Full-Stack+%7C+Networking+%7C+Cybersecurity;Dean's+Award+Recipient+%E2%80%94+3x+Consecutive;Currently+Building+Naazoh+AI+Assistant)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Secure+%26+Reliable+Systems;Software+Engineering+%7C+Security+%7C+Applied+AI;Open+to+New+Opportunities;Currently+Building+Naazoh+AI+Assistant)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,30 +27,27 @@
 
 ```yaml
 name        : Tahleho Paki
-role        : Software Engineer & Cybersecurity Enthusiast
-institution : Botho University - BSc (Hons) Computing (2023–2028)
+role        : Software Engineer | Security & Systems
+institution : Botho University — BSc (Hons) Computing
 location    : Lesotho 🇱🇸
-focus       : [ Software Engineering, Cybersecurity, Networking, AI/ML, Database Systems ]
-building    : Naazoh AI Assistant - Smart wearable for visually impaired individuals
-awards      : Dean's Award for Academic Excellence × 3 (2024–2025)
-available   : Open to internships in SWE, Networking, Database Management & Cybersecurity
+focus       : [ Software Engineering, Security, Networking, Applied AI, Database Systems ]
+building    : Naazoh AI Assistant — assistive technology for visually impaired users
+status      : Internship completed — open to new opportunities
 ```
 
 ---
 
 ## ⚡ About Me
 
-I am a fourth-year Computing student driven by a commitment to building **intelligent, secure, and impactful technology solutions**. My work spans full-stack web development, systems programming, enterprise networking, and applied AI - always with a security-first mindset.
+I'm a software engineer and Computing student focused on building **intelligent, secure, and reliable systems**. My work spans full-stack web development, systems programming, enterprise networking, and applied AI — always with a security-first mindset.
 
-My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable designed to empower visually impaired individuals through real-time object detection and natural voice interaction - a testament to building technology that genuinely changes lives.
-
-> *"Engineering solutions that are not just functional, but transformative."*
+My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable that empowers visually impaired individuals through real-time object detection and natural voice interaction — assistive technology designed for real-world use.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏆 ProcureGov - Tender Management System ⭐
+### 🏆 ProcureGov — Tender Management System
 
 [![ProcureGov](https://img.shields.io/badge/ProcureGov-Tender%20Management%20System-1a472a?style=for-the-badge&logo=java&logoColor=white)](https://github.com/tahleho3968/ProcureGov_2333585)
 
@@ -65,11 +62,9 @@ My flagship project, **Naazoh AI Assistant**, is an AI-powered smart wearable de
 | **Email Notifications** | Automatic winner/loser notifications via JavaMail |
 | **Tech Stack** | Java Servlets, JSP, JSTL, MySQL, Tomcat |
 
-> 📊 **Project Score:** 92/100 (Distinction)
-
 ---
 
-### 🔐 TrustMesh - Verifiable Credentials & Digital Trust ⭐
+### 🔐 TrustMesh — Verifiable Credentials & Digital Trust
 
 [![TrustMesh](https://img.shields.io/badge/TrustMesh-Verifiable%20Credentials-00d4ff?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/tahleho3968/trustmesh)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge)](https://github.com/tahleho3968/trustmesh/blob/main/LICENSE)
@@ -132,14 +127,9 @@ no proprietary cryptography.
 
 ---
 
-## 🔬 In Development
+## 🔧 Currently Building
 
-| Project | Description | Status |
-|:--------|:------------|:------:|
-| **Naazoh AI Assistant** | AI-powered smart wearable enabling real-time object detection and voice interaction for visually impaired users | 🔄 Active |
-| **Advanced Network Securities** | Comprehensive network security suite with IDS/IPS implementation and traffic analysis | 🔄 Active |
-| **MedChain AI** | Blockchain-integrated medical records platform with AI-driven diagnostics and access control | 🔄 Active |
-| **Global Surveillance System** | Distributed security monitoring and real-time threat detection infrastructure | 🔄 Active |
+- **Naazoh AI Assistant** — AI-powered smart wearable enabling real-time object detection and voice interaction for visually impaired users.
 
 ---
 
@@ -259,84 +249,29 @@ no proprietary cryptography.
 
 ---
 
-## 🏆 Certifications
-
-<div align="center">
-
-| Certification | Institution | Year |
-|:-------------|:------------|:----:|
-| **CCNA: Introduction to Networks** | Cisco Networking Academy | 2025 |
-| **CCNA: Network Hardware 2** | Cisco Networking Academy | 2025 |
-| **Python Essentials 1** | Cisco Networking Academy | 2024 |
-| **Introduction to Cybersecurity** | Cisco Networking Academy | 2024 |
-| **Networking Fundamentals** | Cisco Networking Academy | 2024 |
-| **Linux Essentials** | Cisco Networking Academy | 2024 |
-| **Internet of Things (IoT)** | Cisco Networking Academy | 2024 |
-| **Data Science Fundamentals** | Cisco Networking Academy | 2024 |
-| **Critical Thinking in the AI Era** | HP LIFE | 2024 |
-| **Junior Cybersecurity Analyst Career Path** | Cisco Networking Academy | 2025 |
-| **Network Defense** | Cisco Networking Academy | 2025 |
-| **Endpoint Security** | Cisco Networking Academy | 2025 |
-
-</div>
-
----
-
-## 🎓 Education & Academic Achievements
-
-<div align="center">
-
-| Institution | Qualification | Period |
-|:------------|:-------------|:------:|
-| **Botho University** | BSc (Hons) in Computing | 2023 – 2028 |
-| **St Paul's High School** | LGCSE | 2021 – 2022 |
-| **St Paul's High School** | Junior Certificate | 2018 – 2020 |
-| **St Paul's Primary School** | PSL Certificate | 2011 – 2017 |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-🏅 **Dean's Award for Academic Excellence** - July 2024 to December 2024
-🏅 **Dean's Award for Academic Excellence** - January 2025 to June 2025
-🏅 **Dean's Award for Academic Excellence** - June 2025 to December 2025
-
-*Three consecutive semester awards - a consistent record of academic distinction.*
-
-</div>
-
----
-
-## 🎯 Professional Objectives
+## 🎯 Current Focus
 
 ```
-▸  Secure internship opportunities in Software Engineering, Database Management,
-   Network Engineering, or Cybersecurity
+▸  Building secure, reliable systems across the web and infrastructure stack
 
-▸  Deepen expertise in Agentic Engineering, AI/ML systems, and cloud-native architectures
+▸  Deepening expertise in applied AI, data systems, and cloud-native architecture
 
-▸  Master Model Context Protocol (MCP) and AI-assisted development workflows
+▸  Contributing to open-source projects with practical security and utility impact
 
-▸  Contribute to open-source projects with real-world security and utility impact
-
-▸  Grow Naazoh AI Assistant into a deployable assistive technology product
-
-▸  Become a well-rounded engineer at the intersection of AI, security, and infrastructure
+▸  Growing Naazoh AI Assistant into a deployable assistive technology product
 ```
 
 ---
 
 ## 🤝 Open to Collaboration & Opportunities
 
-*I am actively seeking internships and collaborative projects in software engineering,*
-*cybersecurity, database systems, and AI development. Let's build something remarkable.*
+*I'm open to engineering opportunities and collaborations in software development,*
+*security, data systems, and applied AI. Let's build something that lasts.*
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahleho-paki-588326361/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahlehopaki3968@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahleho3968@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahleho3968)
 
 </div>
